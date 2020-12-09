@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.802.0",
+    "csv-parser": "^2.3.4",
+    "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "name": "sentiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
